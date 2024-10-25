@@ -1,2 +1,1 @@
-
-https://logistic-regressionn.streamlit.app/
+https://iml-projectt.streamlit.app/
